@@ -1,0 +1,2 @@
+/home/users/xuezhi.zhang/stereo/backup/STCostAggregation-master/build/Src/CMakeFiles/STCostAggre.dir
+/home/users/xuezhi.zhang/stereo/backup/STCostAggregation-master/build/Test/CMakeFiles/STCostAggreTest.dir
